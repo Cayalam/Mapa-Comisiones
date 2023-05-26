@@ -1,0 +1,207 @@
+<mxfile host="app.diagrams.net" modified="2023-05-26T04:29:39.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="u7seCENASQGlyaXY0dge" version="21.3.4" type="github">
+  <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
+    <mxGraphModel dx="2787.5" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="3" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="90" />
+              <mxPoint x="1330" y="90" />
+              <mxPoint x="1330" y="120" />
+              <mxPoint x="1340" y="120" />
+              <mxPoint x="1340" y="110" />
+              <mxPoint x="1380" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3" value="las comisiones&#xa;" style="rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="590" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="4" target="HrD_MMbzlGrmshdMTsdl-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="comisiones constitucionales&#xa; permanentes&#xa;" style="rounded=1;fillColor=#b1ddf0;strokeColor=#10739e;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="50" y="110" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="5" target="HrD_MMbzlGrmshdMTsdl-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="comisiones legales&#xa;" style="rounded=1;fillColor=#b1ddf0;strokeColor=#10739e;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="500" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6" target="HrD_MMbzlGrmshdMTsdl-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Comisiones Accidentales" style="rounded=1;fillColor=#b1ddf0;strokeColor=#10739e;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="876.5" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="7" target="HrD_MMbzlGrmshdMTsdl-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="comisiones especiales&#xa;" style="rounded=1;fillColor=#b1ddf0;strokeColor=#10739e;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1292" y="115" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="comisión legal para la equidad de la mujer&#xa;&#xa;compuesta por 9 senadores y 10 representantes &#xa;de la cámara&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="415" y="590" width="360" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="comisión legal de seguimiento a las actividades de inteligencia&#xa; y contrainteligencia&#xa;&#xa;compuesta por 4 senadores y 4 representantes de la carama&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="378.75" y="705.5" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="15" target="HrD_MMbzlGrmshdMTsdl-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="comisión legal para la protección de los derechos de&#xa; las comunidades negras o población afrocolombiana&#xa;&#xa;compuesta por representantes a la cámara por&#xa; circunscripción especial de comunidades &#xa;negras y por los congresistas que quieran pertenecer&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="388.75" y="820" width="412.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" target="5" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" target="4" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="80" />
+              <mxPoint x="440" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="6" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="1300" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="90" />
+              <mxPoint x="980" y="270" />
+              <mxPoint x="990" y="110" />
+              <mxPoint x="830" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="13" target="14" edge="1">
+          <mxGeometry x="62" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="62" y="265.5" as="sourcePoint" />
+            <mxPoint x="162" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="14" target="15" edge="1">
+          <mxGeometry x="62" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="62" y="275.5" as="sourcePoint" />
+            <mxPoint x="162" y="175.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="HrD_MMbzlGrmshdMTsdl-56" target="HrD_MMbzlGrmshdMTsdl-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-56" value="&lt;div&gt;comisión primera&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;derechos fundamentales y las reformas constitucionales&lt;/span&gt;&lt;/div&gt;&lt;div&gt;compuesta por 19 miembros en senado y 35 a la cámara de representantes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="200" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="HrD_MMbzlGrmshdMTsdl-58" target="HrD_MMbzlGrmshdMTsdl-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="171" y="580" />
+              <mxPoint x="175" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-58" value="&lt;div&gt;comisión segunda&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;temas internacionales y la seguridad nacional&lt;/div&gt;&lt;div&gt;compuesta por 13 miembros del senado y 19 de la cámara de representantes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="10" y="360" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="HrD_MMbzlGrmshdMTsdl-62" target="HrD_MMbzlGrmshdMTsdl-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="168" y="740" />
+              <mxPoint x="168" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HrD_MMbzlGrmshdMTsdl-62" target="HrD_MMbzlGrmshdMTsdl-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="570" />
+              <mxPoint x="171" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-62" value="&lt;div&gt;comisión tercera&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;impuestos y crédito publico&lt;/div&gt;&lt;div&gt;compuesta por 15 senadores y 29 representantes de la cámara.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry y="530" width="340" height="105.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="HrD_MMbzlGrmshdMTsdl-66" target="HrD_MMbzlGrmshdMTsdl-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-66" value="&lt;div&gt;comisión cuarta&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;presupuesto e industria&lt;/div&gt;&lt;div&gt;compuesta por 15 senadores y 27 representantes de la cámara.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry y="685.5" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="HrD_MMbzlGrmshdMTsdl-69" target="HrD_MMbzlGrmshdMTsdl-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-69" value="comisión quinta &lt;br&gt;&lt;br&gt;temas agrarios y medio ambiental compuesta por 13 senadores y 19 representantes de la cámara." style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry y="820" width="340" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="HrD_MMbzlGrmshdMTsdl-71" target="HrD_MMbzlGrmshdMTsdl-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-71" value="&lt;div&gt;comisión sexta&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;servicios públicos, la educación y la cultura compuesta por 13 senadores y 18 representantes de la cámara.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry y="945.5" width="340" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-73" value="&lt;div&gt;comisión séptima&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;salud, el empleo y la vivienda&lt;/div&gt;&lt;div&gt;compuesta por 14 senadores y 19 representantes de la cámara.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="0.5" y="1080" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="HrD_MMbzlGrmshdMTsdl-75" target="HrD_MMbzlGrmshdMTsdl-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-75" value="&lt;div&gt;comisión de derechos humanos y audiencias&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;compuesta por 10 senadores y 15 representantes de la cámara&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="215" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="HrD_MMbzlGrmshdMTsdl-77" target="HrD_MMbzlGrmshdMTsdl-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-77" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;comisión de ética y estatuto del congresista&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;compuesta por 11 senadores y 17 representantes de la cámara.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="350" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="HrD_MMbzlGrmshdMTsdl-79" target="13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-79" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;comisión de acreditación documental&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;compuesta por 5 senadores y cinco representantes de la casara&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="480" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-83" value="comisión de investigación y acusación &lt;br&gt;&lt;br&gt;compuesta por 15 representantes de la carama comisión de instrucción compuesta por 7 senadores" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1050" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="HrD_MMbzlGrmshdMTsdl-85" target="HrD_MMbzlGrmshdMTsdl-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-85" value="&lt;div&gt;las comisiones accidentales pueden ser designadas por los presidentes y las mesas directivas de las cámaras y también por&lt;/div&gt;&lt;div&gt;encargarle tareas, misiones asuntos&lt;/div&gt;&lt;div&gt;específicos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="836.5" y="235" width="280" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-87" value="&lt;h2&gt;Son&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="946.5" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="HrD_MMbzlGrmshdMTsdl-88" target="HrD_MMbzlGrmshdMTsdl-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-88" value="&lt;div&gt;comisión accidental de paz&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;comisión&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;accidental para la infancia&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;comisión accidental para asuntos del caribe&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;comisión accidental para el seguimiento de las sesiones virtuales del congreso&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;comisiones accidentales de conciliación&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;gradientColor=none;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="816.5" y="410" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-90" value="estas comisiones no son creadas por ley, estas comisiones congregan congresistas interesados en un tema o politica particular." style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="836.5" y="635.5" width="280" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" parent="1" source="HrD_MMbzlGrmshdMTsdl-96" target="HrD_MMbzlGrmshdMTsdl-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-96" value="comisión de vigilancia de los organismos de control publico comisión de vigilancia al organismo electoral comisión de ordenamiento territorial" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1257" y="215" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HrD_MMbzlGrmshdMTsdl-98" value="comisión de crédito publico comisión de modernización" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1252" y="360" width="280" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
